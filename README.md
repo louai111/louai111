@@ -1,48 +1,67 @@
-Hey 👋, I'm Louai Eleslamboly!
-LinkedIn["https://www.linkedin.com/in/louai-eleslamboly1/"]
+<div align="center">
+  <img height="150" src="https://camo.githubusercontent.com/62da68eb62b1e5f175f7d1f0191dd89a653d7908feb22d37d4a0ab07365d6791/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4d3967624264396e6244724f5475314d71782f67697068792e676966"  />
+</div>
 
-I am interested in AI and research and easily adapt to different hats depending on what the project requires. I love exploring new tech stacks 💻 and leveraging them to build cool stuff 🛠️.
+###
 
+<div align="center">
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="youtube logo"  />
+  <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
+</div>
 
-🧐 More About Me:
-💼 Experience
-National Academy of Information Technology for Persons with Disabilities (NAID)
-Mixed Reality Intern
-Jul 2024 - Present
+###
 
-I am currently participating in an internship as part of a team of three interns, collectively focusing on the exploration and development of innovative Mixed Reality solutions in the realm of assistive technology. This opportunity gives us access to the academy’s state-of-the-art high-tech laboratories, providing a rich environment for experimenting with a variety of MR tools and devices. The internship program includes comprehensive training modules in both Unity and Unreal Engine, coupled with sessions aimed at enhancing general soft skills and specialized knowledge in assistive technology. We are mentored by professional engineers, who will guide us through a GP project to be completed by the end of the internship period.
-Eco Racing Team
-Algorithms Developer - Autonomous Systems Development Team
-Sep 2023 – Present
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=maurodesouza.maurodesouza&"  />
+</div>
 
-Implemented path-planning algorithms such as hybrid A*, Reeds-Shepp, and Dubins’ curves for our vehicle using C++ and Python in the ROS1 environment on Ubuntu.
-Optimized the performance and robustness of the current code, addressed issues, and tested using CARLA and RViz simulators.
-Followed best practices for clean code, wrote documentation, and collaborated with teammates using Git and GitHub.
-Some more things:
-🔭   I’m currently learning about Data Analytics!
-👨🏻‍💻   All of my projects are available on Github
-💬   Ask me about anything tech-related, and I am happy to help!
-📫   Feel free to ping me on LinkedIn
+###
 
-🔧 Core Skills
-Data Structures
-Algorithms
-Database
-OOP
-Technical Writing
-🔧 Programming Languages, Technologies and Databases
+<h1 align="center">hey there 👋</h1>
 
+###
 
-PythonC++javascriptJava
+<h3 align="left">👩‍💻  About Me</h3>
 
+###
 
-ROSGitGithubNode.jsExpress.jsHTMLfigma
+<p align="left">I'm ... from ....<br><br>- 🔭 I’m working as ...<br>- 📚 I'm currently learning ...<br>- ⚡ In my free time I ...</p>
 
+###
 
-PostgreSQL
-📫 Contact Me
-🇪🇬 Cairo, Egypt
-📞 +201143422963
-📧 Ali.Esmail03@eng-st.cu.edu.eg
-🔗 LinkedIn
-🔗 GitHub
+<h3 align="left">🛠 Language and tools</h3>
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" height="40" alt="go logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-original.svg" height="40" alt="rust logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-plain-wordmark.svg" height="40" alt="ruby logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-plain-wordmark.svg" height="40" alt="dot-net logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg" height="40" alt="firebase logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" height="40" alt="amazonwebservices logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/circleci/circleci-plain.svg" height="40" alt="circleci logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="40" alt="kubernetes logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" height="40" alt="docker logo"  />
+</div>
+
+###
+
+<h3 align="left">🔥   My Stats :</h3>
+
+###
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=maurodesouza&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+</div>
+
+###
