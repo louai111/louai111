@@ -1,47 +1,39 @@
-## Hey 👋, I'm Louai Eleslamboly!
+<h1 align="left">Hey 👋 I'm Louai Eleslamboly</h1>
 
-<a href='https://www.linkedin.com/in/louai-eleslamboly1/'><img align='left' alt="LinkedIn" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/561d474902b59c7429ec22bb73e225696c27b202/assets/linkedin.svg" height='18px'/></a>
+###
 
-I am interested in Software Development and easily adapt to different hats depending on what the project requires. I love exploring new tech stacks 💻 and leveraging them to build cool stuff 🛠️.
-<br/>
-<br/>
+<p align="left">My name is Louai and I'm a Junior Systems and Biomedical Engineering Student at Cairo University, Egypt</p>
 
-## 🧐 More About Me:
+###
 
-## 🔧 Core Skills
+<!-- <h2 align="left">About me</h2>
 
-- **Data Structures**
-- **Algorithms**
-- **Database**
-- **OOP**
+###
 
-## 🔧 Programming Languages, Technologies and Databases
+<p align="left">✨ Creating bugs since ...<br>📚 I'm currently learning ...<br>🎯 Goals: ...<br>🎲 Fun fact: ...</p> -->
 
-  <br>
-  <br>
-<a href="" target="_blank"><img align="left" alt="Python" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/python/python.svg"></a>
-<a href="" target="_blank"><img align="left" alt="C++" height ="42px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg"></a> 
-<a href="" target="_blank"><img align="left" alt="Java" height ="42px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"></a> 
-<br>
-<hr>
-  <br>
-  <br>
-  <a href="" target="_blank"><img align="left" alt="Git" height ="42px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"></a> 
-  <a href="" target="_blank"><img align="left" alt="Github" height ="42px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"></a> 
-  <a href="" target="_blank"><img align="left" alt="HTML" height ="42px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"></a> 
-  </a>
+###
 
-<br>
-<hr>
-  <br>
-  <br>
-<a href="" target="_blank"><img align="left" alt="PostgreSQL" height ="42px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg"></a> 
-<br>
-<hr>
+<h2 align="left">I code with</h2>
 
-## 📫 Contact Me
+###
 
-- 🇪🇬 Cairo, Egypt
-- 📧 [Louai.Eleslamboly03@eng-st.cu.edu.eg](mailto:Louai.Eleslamboly03@eng-st.cu.edu.eg)
-- 🔗 [LinkedIn](https://www.linkedin.com/in/louai-eleslamboly1/)
-- 🔗 [GitHub](https://github.com/louai111)
+<div align="left">
+  <img src="https://img.icons8.com/?size=100&id=13441&format=png&color=000000" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://img.icons8.com/?size=100&id=Pd2x9GWu9ovX&format=png&color=000000" height="40" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://img.icons8.com/?size=100&id=20909&format=png&color=000000" height="40" alt="react logo"  />
+  <img width="12" />
+  <img src="https://img.icons8.com/?size=100&id=7655&format=png&color=000000" height="40" alt="nextjs logo"  />
+  <img width="12" />
+  <img src="https://img.icons8.com/?size=100&id=1045&format=png&color=000000" height="40" alt="storybook logo"  />
+  <img width="12" />
+  <!-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg" height="40" alt="nestjs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" height="40" alt="jest logo"  /> -->
+</div>
+
+###
