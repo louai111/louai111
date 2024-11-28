@@ -25,7 +25,7 @@
   <img width="12" />
   <img src="https://img.icons8.com/?size=100&id=20909&format=png&color=000000" height="40" alt="react logo"  />
   <img width="12" />
-  <img src="[https://img.icons8.com/?size=100&id=7655&format=png&color=000000](https://r.bing.com/rp/sjRKqL7qEBB3rUAoLZkYF0PHd6Y.svg)" height="40" alt="nextjs logo"  />
+  <img src="https://img.icons8.com/?size=100&id=7655&format=png&color=000000" height="40" alt="nextjs logo"  />
   <img width="12" />
   <img src="https://th.bing.com/th/id/OIP.aiII04uB8m611vQPSw7HfgHaHa?rs=1&pid=ImgDetMain" height="40" alt="storybook logo"  />
   <img width="12" />
