@@ -27,9 +27,9 @@
   <img width="12" />
   <img src="[https://img.icons8.com/?size=100&id=7655&format=png&color=000000](https://r.bing.com/rp/sjRKqL7qEBB3rUAoLZkYF0PHd6Y.svg)" height="40" alt="nextjs logo"  />
   <img width="12" />
-  <img src="https://th.bing.com/th/id/R.7c12764796349bfb505d4c5d73489c3d?rik=bM4AFS0UAqY17g&pid=ImgRaw&r=0" height="40" alt="storybook logo"  />
+  <img src="https://th.bing.com/th/id/OIP.aiII04uB8m611vQPSw7HfgHaHa?rs=1&pid=ImgDetMain" height="40" alt="storybook logo"  />
   <img width="12" />
-  <img src="https://logodownload.org/wp-content/uploads/2019/03/arduino-logo-0.png" height="40" alt="storybook logo"  />
+  <img src="https://d3cxbjf8nzh2qm.cloudfront.net/radunoicon.png" height="40" alt="storybook logo"  />
   <img width="12" />
   <!-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
   <img width="12" />
