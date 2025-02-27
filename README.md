@@ -14,7 +14,7 @@
 
 ###
 
-<h2 align="left">I develop desktop applications with Python (PyQt, NumPy, Matplotlib, OpenCV) and Java (including a Chess Game project). My experience extends to Arduino projects using C and a Radiology department website (HTML/CSS) with PostgreSQL database integration. I consistently apply OOP, Data Structure, and Algorithm principles throughout my work.</h2>
+<h4 align="left">I develop desktop applications with Python (PyQt, NumPy, Matplotlib, OpenCV) and Java (including a Chess Game project). My experience extends to Arduino projects using C and a Radiology department website (HTML/CSS) with PostgreSQL database integration. I consistently apply OOP, Data Structure, and Algorithm principles throughout my work.</h4>
 
 ###
 
