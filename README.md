@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Louai and I'm a Junior Systems and Biomedical Engineering Student at Cairo University, Egypt</p>
+<p align="left">My name is Louai Khaled and I'm a 3rd year Systems and Biomedical Engineering Student at Cairo University, Egypt</p>
 
 ###
 
