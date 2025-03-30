@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Louai Khaled and I'm a 3rd year Systems and Biomedical Engineering Student at Cairo University, Egypt</p>
+<p align="left">My name is Louai Khaled</p>
 
 ###
 
@@ -14,7 +14,7 @@
 
 ###
 
-<h4 align="left">I develop desktop applications with Python (PyQt, NumPy, Matplotlib, OpenCV) and Java (including a Chess Game project). My experience extends to Arduino projects using C and a Radiology department website (HTML/CSS) with PostgreSQL database integration. I consistently apply OOP, Data Structure, and Algorithm principles throughout my work.</h4>
+<h4 align="left">A software developer with experience in building desktop applications using Python (PyQt, NumPy, Matplotlib, OpenCV) and Java. My expertise extends to front-end development with HTML and CSS, and back-end database management with PostgreSQL. Currently expanding my skills and learning more advanced web development concepts and frameworks. I am a strong advocate for applying Object-Oriented Programming (OOP) principles, efficient Data Structures, and optimized Algorithms to create robust and scalable solutions.</h4>
 
 ###
 
