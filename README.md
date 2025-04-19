@@ -1,41 +1,39 @@
-<h1 align="left">Hey There 👋</h1>
 
-###
+<img width="250" align="right" src="https://c.tenor.com/_DOBjnGspYAAAAAM/code-coding.gif">
 
-<p align="left">My name is Louai Khaled, and I'm a software developer with experience in building desktop applications using Python (PyQt, NumPy, Matplotlib, OpenCV) and Java. My expertise extends to front-end development with HTML and CSS, and back-end database management with PostgreSQL. Currently expanding my skills and learning more advanced web development concepts and frameworks. I am a strong advocate for applying Object-Oriented Programming (OOP) principles, efficient Data Structures, and optimized Algorithms to create robust and scalable solutions.</p>
+<h3 align="center">
+  Welcome to Louai Eleslamboly's profile!
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+</h3>
 
-###
+<!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Software%20Developer;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22"></a>
+</p> 
 
-<!-- <h2 align="left">About me</h2>
+- 👨‍💻 As a Systems and Biomedical Engineering student, I'm constantly learning and exploring new technologies to improve my skills.
+- 💬 Ask me about my experience with Python, Java, and C.
 
-###
+### Connect with Me :
 
-<p align="left">✨ Creating bugs since ...<br>📚 I'm currently learning ...<br>🎯 Goals: ...<br>🎲 Fun fact: ...</p> -->
+<a href="https://www.linkedin.com/in/louai-eleslamboly1/" target="_blank"><img src="https://img.shields.io/badge/Louai%20Eleslamboly-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
 
-###
+### 🛠 &nbsp;Tech Stack
+![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
+![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
+![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
+![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
+![Python](https://img.shields.io/badge/-Python%20-05122A?style=flat&logo=python)&nbsp;
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL%20-05122A?style=flat&logo=PostgreSQL)&nbsp;
+![Java](https://img.shields.io/badge/-Java%20-05122A?style=flat&logo=Java)&nbsp;
+![C](https://img.shields.io/badge/-%20-05122A?style=flat&logo=C)&nbsp;
 
-<h4 align="left"></h4>
 
-###
 
-<!-- <div align="left">
-  <img src="https://img.icons8.com/?size=100&id=13441&format=png&color=000000" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://img.icons8.com/?size=100&id=Pd2x9GWu9ovX&format=png&color=000000" height="40" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://img.icons8.com/?size=100&id=20909&format=png&color=000000" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://th.bing.com/th/id/R.a3e840340a3f17cf67979005fb61cb24?rik=BxKymIxIeOtvgw&pid=ImgRaw&r=0" height="40" alt="nextjs logo"  />
-  <img width="12" />
-  <img src="https://th.bing.com/th/id/OIP.aiII04uB8m611vQPSw7HfgHaHa?rs=1&pid=ImgDetMain" height="40" alt="storybook logo"  />
-  <img width="12" />
-  <img src="https://th.bing.com/th/id/R.847f9ebf5c384197d3cc744044d3b37a?rik=EVHf5TJqKlnE8w&pid=ImgRaw&r=0" height="40" alt="storybook logo"  />
-  <img width="12" />
-  <!-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg" height="40" alt="nestjs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" height="40" alt="jest logo"  /> -->
-</div> 
 
-###
+
+<br>
+<a href="https://komarev.com/ghpvc/?username=louai11&style=for-the-badge">
+    <img src="https://komarev.com/ghpvc/?username=louai11&style=for-the-badge">
+</a>
