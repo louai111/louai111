@@ -26,6 +26,10 @@
 
 <a href="https://www.linkedin.com/in/louai-eleslamboly1/" target="_blank"><img src="https://img.shields.io/badge/Louai%20Eleslamboly-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
 
+### Portfolio :
+
+<a href="https://louai111.github.io/personal-website/" target="_blank"><img src="https://img.shields.io/badge/Live%20Site%20(Under Construction)-0077B5?style=for-the-badge&logo=Linkedin&logoColor=black"/></a>
+
 ### 🛠 &nbsp;Tech Stack
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
