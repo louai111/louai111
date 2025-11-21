@@ -3,7 +3,7 @@
 
 <h3 align="center">
   Welcome to Louai's profile!
-  <!-- <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> -->
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h3>
 
 <p align="center">
@@ -35,7 +35,6 @@
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 ![Python](https://img.shields.io/badge/-Python%20-05122A?style=flat&logo=python)&nbsp;
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL%20-05122A?style=flat&logo=PostgreSQL)&nbsp;
 ![Java](https://img.shields.io/badge/-Java%20-05122A?style=flat&logo=Java)&nbsp;
